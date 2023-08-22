@@ -165,7 +165,49 @@ color: #de2e54;
 .main-link:active{
   background-color: #de2e54;
   color: #fff;
+  opacity: 0.6;
 }
+
+
+/* HERO */
+.hero {
+  background-color:#0EB4C1;
+  color:#fff;
+}
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+
+}
+.container {
+}
+.hero-content {
+padding-top: 120px;
+padding-bottom: 120px;
+width: 500px;
+}
+.hero-heading {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-family: "Open Sans Condenset" "Arial", sans-serif ;
+  font-size: 36px;
+  line-height: 1.2;
+}
+.hero-text {
+  width: 440px;
+  margin-top: 0;
+  margin-bottom: 36px;
+
+}
+.main-link {
+}
+
+
+.hero-img{
+align-self: flex-end;
+}
+
+
 
 
 /* SITE-FOOTER */
